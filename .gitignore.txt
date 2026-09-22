@@ -1,0 +1,7 @@
+node_modules/
+.grok/
+.vercel/
+.tanstack/
+attachments/
+*.zip
+.DS_Store
